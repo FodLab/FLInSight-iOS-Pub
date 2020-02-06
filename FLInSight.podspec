@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "FLInSight"
-  spec.version      = "1.0.1"
+  spec.version      = "1.0.2"
   spec.summary      = "InSight SDK by fodlab"
   spec.homepage     = "https://github.com/FodLab/FLInSight-iOS-Pub"
   spec.license      = { :type => 'MIT' }
